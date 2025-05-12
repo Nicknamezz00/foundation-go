@@ -1,4 +1,4 @@
-module foundation-go
+module github.com/Nicknamezz00/foundation-go
 
 go 1.24
 
